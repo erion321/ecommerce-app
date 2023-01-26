@@ -21,7 +21,7 @@ export default function Navbar() {
 
       <div
         className={`flex items-center justify-center ${
-          search && "invisible lg:visible"
+          search && "invisible md:visible"
         }`}
       >
         <button
