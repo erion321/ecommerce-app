@@ -1,4 +1,4 @@
-import { GoThreeBars } from "react-icons/GO";
+import { GoThreeBars } from "react-icons/go";
 import { IoIosArrowDown } from "react-icons/io";
 import { BiSearchAlt2 } from "react-icons/bi";
 import { useGlobalContext } from "../context/Context";
